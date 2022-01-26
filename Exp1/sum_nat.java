@@ -1,3 +1,6 @@
+//Program to find sum of first n natural numbers.
+
+
 import java.util.*;
 
 class sum_nat
