@@ -1,3 +1,6 @@
+//Program to find factor of a given number.
+
+
 import java.util.*;
 
 class factors
