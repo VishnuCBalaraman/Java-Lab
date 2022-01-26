@@ -1,3 +1,6 @@
+//Program to check given number is Armstrong or not.
+
+
 import java.util.*;
 
 class armstrong
