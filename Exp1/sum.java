@@ -1,3 +1,6 @@
+//Program to add two numbers.
+
+
 import java.util.*;
 
 class sum 
