@@ -1,3 +1,5 @@
+//Program to print hello world.
+
 class helloworld
 {
     public static void main(String args[])
