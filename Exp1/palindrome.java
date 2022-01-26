@@ -1,3 +1,6 @@
+//Program to check whether given number is palindrome or not.
+
+
 import java.util.*;
 
 class palindrome
