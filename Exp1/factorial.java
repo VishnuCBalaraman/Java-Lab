@@ -1,3 +1,6 @@
+//Program to find factorial of a given number.
+
+
 import java.util.*;
 
 class factorial
