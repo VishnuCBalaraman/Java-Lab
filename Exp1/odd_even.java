@@ -1,3 +1,6 @@
+//Program to check whether a given number is odd or even.
+
+
 import java.util.*;
 
 class odd_even
