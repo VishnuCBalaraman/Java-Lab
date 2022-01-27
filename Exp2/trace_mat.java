@@ -1,3 +1,5 @@
+//Program to find trace of matrix.
+
 import java.util.*;
 
 class trace_mat
