@@ -1,3 +1,5 @@
+//Program to multiply two matrices.
+
 import java.util.*;
 
 class multiply_mat
