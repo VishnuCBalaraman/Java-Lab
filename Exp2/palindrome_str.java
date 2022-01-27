@@ -1,3 +1,5 @@
+//Program to find whether a string is palindrome or not.
+
 import java.util.*;
 
 class palindrome_str
