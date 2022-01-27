@@ -1,3 +1,5 @@
+//Program to add two matrices.
+
 import java.util.*;
 
 class add_mat
