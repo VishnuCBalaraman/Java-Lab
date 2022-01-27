@@ -1,3 +1,5 @@
+//Program to find the second largest element in an array.
+
 import java.util.*;
 
 class seclarge_arr
