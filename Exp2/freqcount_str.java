@@ -1,3 +1,5 @@
+//Program to find frequency of a given character in a string.
+
 import java.util.*;
 
 class freqcount_str
