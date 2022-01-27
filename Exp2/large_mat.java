@@ -1,3 +1,5 @@
+//Program to find the largest element in a NXN matrix.
+
 import java.util.*;
 
 class large_mat
