@@ -1,3 +1,4 @@
+//Program to find the smallest element in an array.
 
 import java.util.*;
 
