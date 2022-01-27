@@ -1,3 +1,5 @@
+//Program to search for a particular character in a string.
+
 import java.util.*;
 
 class srch_str
