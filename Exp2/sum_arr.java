@@ -1,3 +1,5 @@
+//Program to find the sum of elements in an array.
+
 import java.util.*;
 
 class sum_arr
