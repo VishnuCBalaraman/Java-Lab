@@ -1,3 +1,5 @@
+//Program to replace a particular character in a string.
+
 import java.util.*;
 
 class replace_str
