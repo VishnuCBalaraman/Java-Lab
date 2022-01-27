@@ -1,3 +1,5 @@
+//Program to find transpose of a matrix.
+
 import java.util.*;
 
 class transpose_mat
