@@ -1,3 +1,5 @@
+//Program to replace a particular element in an array.
+
 import java.util.*;
 
 class replace_arr 
