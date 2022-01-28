@@ -7,7 +7,8 @@ import java.util.*;
 class employee
 {
     String name;
-    int empno,empph;
+    int empno;
+    String empph;
     
     public static void main(String args[])
     {
@@ -28,7 +29,7 @@ class employee
             System.out.println("Enter the empno of employee "+(i+1)+" : ");
             e[i].empno = sc.nextInt();
             System.out.println("Enter the phone no of employee "+(i+1)+" : ");
-            e[i].empph = sc.nextInt();
+            e[i].empph = sc.next();
             System.out.println();
         }
         
